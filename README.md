@@ -34,17 +34,4 @@ Todo mundo é bem-vindo! Abra um pull request e vamos juntos fazer essa aplicaç
 * **Dados dos atletas:** Os dados estão no arquivo `dados.js`. Você pode adicionar ou editar à vontade.
 * **Estilo:** Personalize a aparência da aplicação no arquivo `styles.css`.
 
-**Contribuidores:**
-
-* **Você:** A pessoa mais importante desse projeto!
-
-**Recursos:**
-
-* **Inspiração:** [Link para um site ou artigo sobre desenvolvimento web]
-* **Tutoriais:** [Link para tutoriais que você usou]
-
-**Agradecimentos:**
-
-* A todos que contribuíram para este projeto!
-
 **#olimpiadas #atletasbrasileiros #javascript #html #css #desenvolvimentoweb**
