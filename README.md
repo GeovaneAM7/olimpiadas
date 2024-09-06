@@ -1,4 +1,7 @@
-##  Busca de Atletas Brasileiros 
+##  Busca de Atletas Brasileiros - Imersão Dev com Alura e Google Gemini
+
+![image](https://github.com/user-attachments/assets/1e7cedcf-d643-4023-b8f0-eac6640f4705)
+
 
 **O que é isso?**
 
